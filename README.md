@@ -71,7 +71,6 @@ SVG: https://raw.githubusercontent.com/Cosmian/Files/main/products/Cosmian-Demo.
 PNG: https://raw.githubusercontent.com/Cosmian/Files/main/products/Cosmian-Demo.png
 
 <hr />
-<br />
 
 ### Docs logo
 
