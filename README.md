@@ -32,6 +32,7 @@ PNG: https://raw.githubusercontent.com/Cosmian/Files/main/png/cosmian-logo-orang
 </div>
 
 PNG: https://raw.githubusercontent.com/Cosmian/Files/main/cosmian-logo-white-234x50.svg
+
 SVG: https://raw.githubusercontent.com/Cosmian/Files/main/png/cosmian-logo-white.png
 
 <hr />
