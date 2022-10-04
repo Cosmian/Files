@@ -36,7 +36,6 @@ PNG: https://raw.githubusercontent.com/Cosmian/Files/main/cosmian-logo-white-234
 SVG: https://raw.githubusercontent.com/Cosmian/Files/main/png/cosmian-logo-white.png
 
 <hr />
-<br />
 
 ### Orange Icon
 
@@ -48,7 +47,6 @@ SVG: https://raw.githubusercontent.com/Cosmian/Files/main/cosmian-c-orange-42x50
 PNG: https://raw.githubusercontent.com/Cosmian/Files/main/png/cosmian-c-orange.png
 
 <hr />
-<br />
 
 ### White Icon
 
