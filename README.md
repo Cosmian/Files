@@ -1,82 +1,87 @@
 # Cosmian Logos
 
-### Full color
+## Full color logo
 
 <br />
-<img src="https://raw.githubusercontent.com/Cosmian/Files/main/cosmian-logo-color-234x50.svg" alt="Cosmian Logo Color" width="234"/>
+<img src="https://raw.githubusercontent.com/Cosmian/Files/main/svg/cosmian-logo-color.svg" alt="Cosmian Logo Color" width="234"/>
 
-SVG: https://raw.githubusercontent.com/Cosmian/Files/main/cosmian-logo-color-234x50.svg
+SVG: https://raw.githubusercontent.com/Cosmian/Files/main/svg/cosmian-logo-color.svg
 
 PNG: https://raw.githubusercontent.com/Cosmian/Files/main/png/cosmian-logo-color.png
 
 <hr />
 
-### Orange and white
+## Orange and white logo (mixed)
 
 <br />
-<div style="background-color: #320099; padding: 1em;">
-  <img src="https://raw.githubusercontent.com/Cosmian/Files/main/cosmian-logo-orange-and-white-234x50.svg" alt="Cosmian Logo orange and white" width="234"/>
-</div>
+  <img src="https://raw.githubusercontent.com/Cosmian/Files/main/svg/cosmian-logo-mixed.svg" alt="Cosmian Logo orange and white" width="234"/>
 
-SVG: https://raw.githubusercontent.com/Cosmian/Files/main/cosmian-logo-orange-and-white-234x50.svg
+SVG: https://raw.githubusercontent.com/Cosmian/Files/main/svg/cosmian-logo-mixed.svg
 
-PNG: https://raw.githubusercontent.com/Cosmian/Files/main/png/cosmian-logo-orange-and-white.png
+PNG: https://raw.githubusercontent.com/Cosmian/Files/main/png/cosmian-logo-mixed.png
 
 <hr />
 
-### Full white
+## Full white logo
 
 <br />
-<div style="background-color: #ff5f38; padding: 1em;">
-<img src="https://raw.githubusercontent.com/Cosmian/Files/main/cosmian-logo-white-234x50.svg" alt="Cosmian Logo white" width="234"/>
-</div>
+<img src="https://raw.githubusercontent.com/Cosmian/Files/main/svg/cosmian-logo-white.svg" alt="Cosmian Logo white" width="234"/>
 
-PNG: https://raw.githubusercontent.com/Cosmian/Files/main/cosmian-logo-white-234x50.svg
+PNG: https://raw.githubusercontent.com/Cosmian/Files/main/svg/cosmian-logo-white.svg
 
 SVG: https://raw.githubusercontent.com/Cosmian/Files/main/png/cosmian-logo-white.png
 
 <hr />
 
-### Orange Icon
+## Color icon
 
 <br />
-<img src="cosmian-c-orange-42x50.svg" alt="Cosmian C Logo orange" width="42"/>
+<img src="https://raw.githubusercontent.com/Cosmian/Files/main/svg/cosmian-icon-color.svg" alt="Cosmian C Logo orange" width="42"/>
 
-SVG: https://raw.githubusercontent.com/Cosmian/Files/main/cosmian-c-orange-42x50.svg
+SVG: https://raw.githubusercontent.com/Cosmian/Files/main/svg/cosmian-icon-color.svg
 
-PNG: https://raw.githubusercontent.com/Cosmian/Files/main/png/cosmian-c-orange.png
+PNG: https://raw.githubusercontent.com/Cosmian/Files/main/png/cosmian-icon-color.png
 
 <hr />
 
-### White Icon
+## White icon
 
 <br />
-<div style="background-color: #ff5f38; padding: 1em;">
-<img src="https://raw.githubusercontent.com/Cosmian/Files/main/cosmian-c-white-42x50.svg" alt="Cosmian C Logo white" width="42"/>
-</div>
+<img src="https://raw.githubusercontent.com/Cosmian/Files/main/svg/cosmian-icon-white.svg" alt="Cosmian C Logo white" width="42"/>
 
-SVG: https://raw.githubusercontent.com/Cosmian/Files/main/cosmian-c-white-42x50.svg
+SVG: https://raw.githubusercontent.com/Cosmian/Files/main/svg/cosmian-icon-white.svg
 
-PNG: https://raw.githubusercontent.com/Cosmian/Files/main/png/cosmian-c-white.png
+PNG: https://raw.githubusercontent.com/Cosmian/Files/main/png/cosmian-icon-white.png
 
 <hr />
 
-### Demo logo
+## Favicon
 
 <br />
-<img src="https://raw.githubusercontent.com/Cosmian/Files/main/products/Cosmian-Demo.svg" alt="Cosmian C Logo white" width="300"/>
+<img src="https://raw.githubusercontent.com/Cosmian/Files/main/svg/cosmian-favicon-color.svg" alt="Cosmian C Logo white" width="42"/>
 
-SVG: https://raw.githubusercontent.com/Cosmian/Files/main/products/Cosmian-Demo.svg
+SVG: https://raw.githubusercontent.com/Cosmian/Files/main/svg/cosmian-favicon-color.svg
 
-PNG: https://raw.githubusercontent.com/Cosmian/Files/main/products/Cosmian-Demo.png
+PNG: https://raw.githubusercontent.com/Cosmian/Files/main/png/cosmian-favicon-color.png
 
 <hr />
 
-### Docs logo
+## Demo logo
 
 <br />
-<img src="https://raw.githubusercontent.com/Cosmian/Files/main/products/Cosmian-Docs.svg" alt="Cosmian C Logo white" width="300"/>
+<img src="https://raw.githubusercontent.com/Cosmian/Files/main/products/cosmian-logo-demo.svg" alt="Cosmian C Logo white" width="234"/>
 
-SVG: https://raw.githubusercontent.com/Cosmian/Files/main/products/Cosmian-Docs.svg
+SVG: https://raw.githubusercontent.com/Cosmian/Files/main/products/cosmian-logo-demo.svg
 
-PNG: https://raw.githubusercontent.com/Cosmian/Files/main/products/Cosmian-Docs.png
+PNG: https://raw.githubusercontent.com/Cosmian/Files/main/products/cosmian-logo-demo.png
+
+<hr />
+
+## Docs logo
+
+<br />
+<img src="https://raw.githubusercontent.com/Cosmian/Files/main/products/cosmian-logo-docs.svg" alt="Cosmian C Logo white" width="234"/>
+
+SVG: https://raw.githubusercontent.com/Cosmian/Files/main/products/cosmian-logo-docs.svg
+
+PNG: https://raw.githubusercontent.com/Cosmian/Files/main/products/cosmian-logo-docs.png
